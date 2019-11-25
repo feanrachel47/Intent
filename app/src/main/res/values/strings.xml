@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="message_hint">Enter your message</string>
+    <string name="message">Message:</string>
+    <string name="send">Send</string>
+    <string name="done">Done</string>
+    <string name="second">Second</string>
+    <string name="lucky_number_hint">Enter your lucky number</string>
+    <string name="lucky_number">Your lucky number is :</string>
+    <string name="reply_hint">Your reply</string>
+    <string name="reply">Reply</string>
+    <string name="call_me">Dont call me 01127210802</string>
+    <stirng name="facebook">Go to Facebook</stirng>
+</resources>
